@@ -6,3 +6,13 @@ Step 1:- Download the repositary via Link:- https://github.com/COxRIPMIZO/Instag
 
 Step 2:- Extract the zip file in your desire folder and run the index.html.
 
+Prerequisites :- 
+1) XAMPP Server.
+2) Ngrok Srvice or you can also use others tunnel services that u want.
+
+
+
+
+--------------------------------------------- Happy Learning 😊😊👍👍---------------------------------------
+---------------------------------------------      KHONSHU(Vishal)    ----------------------------------------
+
